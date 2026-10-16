@@ -1,0 +1,5 @@
+# Top-level versions installed on the original Mac; not a complete lockfile.
+livekit==1.1.21
+livekit-api==1.2.2
+faster-whisper==1.2.1
+numpy==2.5.4
